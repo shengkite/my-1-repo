@@ -1,1 +1,2 @@
-# my-1-repo
+hello! world !!!
+hi~聖豪!!!
